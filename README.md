@@ -10,7 +10,7 @@
 
 # 注册 Kaggle 在账号 流程：
 - 1.www.kaggle.com 注册。填写有效邮箱
-- 2.到邮箱里会收到激活邮件。如果是在墙内环境会显示无法验证
+- 2.到邮箱里会收到激活邮件。当点击验证时，如果是在墙内环境会显示无法验证
 - 3.解决方法:
   到http://www.ggfwzs.com/ 下载[谷歌访问助手]。然后使用 chrome 浏览器 加载 [谷歌访问助手](加载教程http://www.ggfwzs.com/ff/chrome/index.html)
 - 4.打开激活邮件。激活Kaggle账号
