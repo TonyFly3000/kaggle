@@ -6,7 +6,7 @@ Kaggle Kernal 为 数据科学竞赛平台提供的云计算环境。
 - 支持Python,R。且能用notebook mode 和 script mode 
 
 ## 在注册 Kaggle账号时需要邮件验证，但墙内环境会显示无法验证
-解决方法:科学上网 or 浏览器安装[谷歌访问助手]
+解决方法:科学上网 or 浏览器安装插件[谷歌访问助手]
 
 ## 注册 Kaggle 账号 流程：
 - 1.www.kaggle.com 注册。填写有效邮箱
